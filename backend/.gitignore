@@ -1,0 +1,8 @@
+# ignore node modules and logs
+node_modules/
+npm-debug.log
+
+# ignore environment and sensitive files
+.env
+# connection file
+dbConnection.js
